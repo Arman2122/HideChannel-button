@@ -3,7 +3,7 @@
  * @displayName HideChannels
  * @authorId 460692713025830912
  * @website https://github.com/Arman2122
- * @source https://github.com/Arman2122/ShowHiddenChannel
+ * @source https://github.com/Arman2122/HiddenChannel
  * @telegram t.me/Arman_HC
  */
 
@@ -43,7 +43,7 @@ module.exports = (() => {
 			],
 			version: "1.0",
 			description: "See Any Channel And Hidden Channel On Any Discord :)",
-			github: "https://github.com/Arman2122/ShowHiddenChannel/blob/main/ShowHiddenChannel.js",
+			github: "https://github.com/Arman2122/HiddenChannel/blob/main/HiddenChannel.plugin.js",
 		},
 		changelog: [
 			{
