@@ -21,7 +21,7 @@ Just Download And Copy The File And Paste into BDiscord Plugins Folder :)))
 
 
 
-https://cdn.discordapp.com/attachments/766241020630925322/766241689680609290/unknown.png
+![photodisplay](https://cdn.discordapp.com/attachments/766241020630925322/766241689680609290/unknown.png)
 
 
 Add An Extra Arrow To Hide Dm's Or Server Channel's
