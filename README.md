@@ -2,7 +2,7 @@
 #### Allows you to hide the channels list in servers and DMs
 <hr>
 
-Current version: v1.0.5 (24/09/2020)
+Current version: v1.0
 
 ## Changelog
 
