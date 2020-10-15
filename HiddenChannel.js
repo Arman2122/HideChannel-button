@@ -1,6 +1,6 @@
 /**
- * @name ShowHideChannels
- * @displayName ShowHideChannels
+ * @name HideChannels
+ * @displayName HideChannels
  * @authorId 460692713025830912
  * @website https://github.com/Arman2122
  * @source https://github.com/Arman2122/ShowHiddenChannel
