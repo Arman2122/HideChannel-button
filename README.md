@@ -19,6 +19,7 @@ Current version: v1.0
 
 Just Download And Copy The File And Paste into BDiscord Plugins Folder :)))
 
+## Previews
 
 
 ![photodisplay](https://cdn.discordapp.com/attachments/766241020630925322/766241689680609290/unknown.png)
