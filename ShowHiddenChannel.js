@@ -3,8 +3,8 @@
  * @displayName ShowHideChannels
  * @authorId 460692713025830912
  * @website https://github.com/Arman2122
- * @source https://raw.githubusercontent.com/CapnKitten/BetterDiscord/master/Plugins/HideChannels/HideChannels.plugin.js
- * @donate https://paypal.me/capnkitten
+ * @source https://github.com/Arman2122/ShowHiddenChannel
+ * @telegram t.me/Arman_HC
  */
 
 /*@cc_on
@@ -43,8 +43,7 @@ module.exports = (() => {
 			],
 			version: "1.0",
 			description: "See Any Channel And Hidden Channel On Any Discord :)",
-			github: "https://github.com/CapnKitten/BetterDiscord/blob/master/Plugins/HideChannels/HideChannels.plugin.js",
-			github_raw: "https://raw.githubusercontent.com/CapnKitten/BetterDiscord/master/Plugins/HideChannels/HideChannels.plugin.js"
+			github: "https://github.com/Arman2122/ShowHiddenChannel/blob/main/ShowHiddenChannel.js",
 		},
 		changelog: [
 			{
