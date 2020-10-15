@@ -13,3 +13,6 @@ Current version: v1.0
 [github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Sponsor&style=flat&logo=github&color=black
 [github-url]: https://github.com/Arman2122
 
+### How To Install
+
+Just Download And Copy The File And Paste into BDiscord Plugins Folder :)))
